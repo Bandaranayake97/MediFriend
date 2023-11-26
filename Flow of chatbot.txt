@@ -1,0 +1,93 @@
+Hi! we are able to provide,
+	1. doctors appointment booking
+	2.first-aid
+how can I help you?
+
+
+1.meditation category
+	neurologist
+	surgeon
+	cardiologist
+	psychiatrics
+	orthopedic surgeon
+	radiologist
+	endocrinologist
+	pathologist
+	family medicine
+	
+	available doctors
+
+	date
+
+	time
+
+2.reseason for first-aid
+	snake bite
+		keep the person calm
+		remove tight clothing and jewelry
+		wash the bite area with soap and water, but do not apply ice
+		keep the bitten limb at slightly below the level of the heart
+		use a clean bandage to loosely immobilize the affected limb
+		seek medical help
+
+	allegic reaction
+		If the person has an epinephrine auto-injector (such as an EpiPen), help them use it according to the instructions.
+		If the person has oral antihistamines, help them take it if they are able to swallow.
+		Have the person lie down and raise their legs, unless this is uncomfortable or difficult for breathing.
+		Watch for signs of respiratory distress. If the person stops breathing or their breathing becomes severely compromised, be prepared to perform CPR.
+		Keep the person calm and reassure them while waiting for emergency medical help.
+
+	fracture
+		Stay calm and encourage the injured person to do the same.
+		Ask the person to avoid moving the injured area. If possible, use a splint or other means to immobilize the affected limb.
+		Dial emergency services for professional medical assistance.
+		Elevate the injured limb to help reduce swelling, unless it causes more pain or discomfort.
+		If available, apply a cold compress or ice pack wrapped in a cloth to the injured area to help reduce swelling and alleviate pain. Do not apply the ice directly to the skin.
+		Provide comfort and support while waiting for professional help to arrive.
+		
+	choking
+		for adults- remove obstruction by coughing
+		for children and elderly people-require assistance as soon as possible 
+
+	ankle fracture
+		Encourage the person to stop moving and assess the situation. If there's severe pain, swelling, or deformity, it may indicate a fracture.
+		Ask the person to keep the ankle as still as possible. You can use a splint or improvise with rigid materials (such as boards or rolled-up newspapers) to support the ankle and minimize movement.
+		If possible, help the person elevate their leg to reduce swelling. This involves raising the leg so that it's higher than the heart.
+		Use a cold compress or ice pack wrapped in a cloth on the injured area to help reduce swelling. Apply it for 15-20 minutes at a time with breaks in between.
+		Dial emergency services to ensure the person receives appropriate medical care.
+		Stay with the person, offer reassurance, and keep them as comfortable as possible while waiting for medical help.
+		
+	strains and sprains
+		Stay calm and encourage the injured person to do the same.
+		Ask the person to avoid moving the injured area. If possible, use a splint or other means to immobilize the affected limb.
+		Dial emergency services for professional medical assistance.
+		Elevate the injured limb to help reduce swelling, unless it causes more pain or discomfort.
+		If available, apply a cold compress or ice pack wrapped in a cloth to the injured area to help reduce swelling and alleviate pain. Do not apply the ice directly to the skin.
+		Provide comfort and support while waiting for professional help to arrive.
+
+	cardiac arrest
+		Dial emergency services immediately.(1919)
+		If the person is unresponsive and not breathing normally, begin CPR. This involves chest compressions at a rate of about 100-120 compressions per minute. If you're trained in CPR, include rescue breaths.
+		If an AED is available, use it as soon as possible. Follow the device's instructions.
+		Keep performing CPR and using the AED until professional help arrives or the person starts breathing on their own.
+
+	drowning
+		Make sure the area is safe for both you and the victim.
+		Dial emergency services immediately.(1919)
+		Assess if the person is breathing. If not, start CPR. If you're not trained in CPR, provide chest compressions at a rate of about 100-120 compressions per minute.
+		If the person is breathing but has water in their airway, encourage them to cough. If they can't cough effectively, perform back blows and abdominal thrusts (Heimlich maneuver) if trained to do so.
+		If the person is breathing, place them in the recovery position to aid breathing.
+		Keep monitoring the person's breathing and other vital signs until professional help arrives.
+
+	Burns and scalds
+		For heat-related burns, immediately remove the person from the source of heat.
+		If chemicals are involved, rinse the affected area with cool running water for at least 20 minutes.
+		Hold the burned area under cool (not cold) running water for at least 10 minutes to reduce pain and swelling.
+		If running water is not available, use a cold compress or immerse the area in cool water.
+		Remove tight clothing and jewelry from around the burn area.
+		Use a sterile, non-stick bandage or clean cloth to cover the burn. Avoid using adhesive bandages directly on the burn.
+		Over-the-counter pain relievers, like acetaminophen or ibuprofen, can be used according to the recommended dosage.
+		Seek professional medical help for burns that are severe, cover a large area, or involve the face, hands, feet, genitals, or major joints.
+
+	
+
